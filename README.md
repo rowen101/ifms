@@ -1,4 +1,4 @@
-# ifms or 
+# iFMS
 Integrated Fleet Management System   
 
 ## Project setup
